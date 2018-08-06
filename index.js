@@ -14,3 +14,16 @@ function destrctivelyRemoveLastKitten(name){
 function destrctivelyRemoveFirstKitten(name){
   
 }
+
+function appendKitten(name){
+  
+}
+
+function prependKitten(name){
+  
+}
+
+function removeLastKitten(){
+  
+}
+
