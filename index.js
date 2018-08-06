@@ -1,17 +1,17 @@
 // Add your functions and code here
-function destrctivelyAppendKitten(name){
+function destructivelyAppendKitten(name){
   
 }
 
-function destrctivelyprePpendKitten(name){
+function destructivelyprePpendKitten(name){
   
 }
 
-function destrctivelyRemoveLastKitten(name){
+function destructivelyRemoveLastKitten(name){
   
 }
 
-function destrctivelyRemoveFirstKitten(name){
+function destructivelyRemoveFirstKitten(name){
   
 }
 
